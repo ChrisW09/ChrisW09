@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Christoph Weisser
 
 🚀 **Technical Lead – Analytics & AI @ BASF**  
-I design, deploy, and scale Business Data Science & AI solutions at BASF. Previously in investment banking and data science consulting.
+I design, deploy, and scale business Data Science & AI solutions at BASF. Previously in investment banking and data science consulting.
 
 ---
 
