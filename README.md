@@ -11,6 +11,12 @@ PhD – Göttingen · MSc – Oxford · MLitt – St Andrews
 
 ---
 
+## 🌐 Connect
+
+💼 [LinkedIn](https://www.linkedin.com/in/christophweisser/)  
+
+---
+
 ## 📚 Publications
 
 30+ peer-reviewed papers:
@@ -20,6 +26,7 @@ PhD – Göttingen · MSc – Oxford · MLitt – St Andrews
 
 📖 [Google Scholar](https://scholar.google.com/citations?user=YpwYTioAAAAJ&hl=de)  
 ✍️ [Medium](https://medium.com/@christoph.j.weisser28)
+
 
 ---
 
@@ -31,6 +38,3 @@ PhD – Göttingen · MSc – Oxford · MLitt – St Andrews
 
 ---
 
-## 🌐 Connect
-
-💼 [LinkedIn](https://www.linkedin.com/in/christophweisser/)  
