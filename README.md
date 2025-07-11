@@ -32,9 +32,9 @@ PhD – Göttingen · MSc – Oxford · MLitt – St Andrews
 
 ## 👨‍🏫 Teaching
 
-- Teaching AI & Applied Statistics at MSc/PhD level  
-- Supervising theses and industrial PhD students  
-- Leading international summer schools on ML & AI
+- Teaching Applied Statistics, Data Science & AI 
+- Supervising bachelor and master theses & industrial PhD students  
+- Leading international summer schools on Data Science & AI
 
 ---
 
