@@ -36,7 +36,7 @@ PhD – Göttingen · MSc – Oxford · MLitt – St Andrews
 - Supervising bachelor and master theses & industrial PhD students  
 - Leading international summer schools on Data Science & AI
 
-🎓 [Summer Schools](https://bridgingaiandsociety.org)
+🎓 [Bridging AI and Society Summer Schools](https://bridgingaiandsociety.org)
 
 ---
 
