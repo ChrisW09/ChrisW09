@@ -19,7 +19,7 @@ PhD – Göttingen · MSc – Oxford · MLitt – St Andrews
 
 ## 📚 Publications
 
-30+ peer-reviewed papers:
+30+ Data & AI publications:
 
 - Journals: e.g. *JRSS*, *JAS*, *IEEE TNNLS*, *J. Phys. Chem.*, *Comp. Stat*  
 - Conferences: e.g. *ACL*, *LREC-COLING*, *IEEE*
