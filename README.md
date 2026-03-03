@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Christoph
 
-🚀 **Professor of Mathematics, in particular Business Data Science**  
+🚀 **Professor of Mathematics, in particular Business Data Science, HSBI**  
 
 ---
 
