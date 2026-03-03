@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Christoph
 
-🚀 **Technical Lead Analytics & AI @ BASF**  
-I design, deploy, and scale business Data Science & AI solutions at BASF. Previously in investment banking and data science consulting.
+🚀 **Professor of Mathematics, in particular Business Data Science**  
 
 ---
 
