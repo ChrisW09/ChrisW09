@@ -3,7 +3,7 @@
 🚀 **Professor of Mathematics, in particular Business Data Science**  
 HSBI – Hochschule Bielefeld, University of Applied Sciences and Arts
 
-My work focuses on **Applied AI, Data Science, Statistics, and Tabular Deep Learning**.
+My work focuses on **Applied AI, Data Science, Statistics and Tabular Deep Learning**.
 
 ---
 
