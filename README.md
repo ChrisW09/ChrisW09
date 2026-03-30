@@ -10,9 +10,8 @@ HSBI – Hochschule Bielefeld, University of Applied Sciences and Arts
 - **[HSBI Profile](https://www.hsbi.de/personenverzeichnis/christoph-weisser)**  
 - **[Applied AI & Business Data Science Consulting](https://www.profweisser-ai.de)**
 - **[Bridging AI and Society Summer Schools](https://bridgingaiandsociety.org)**  
-- **[LinkedIn](https://www.linkedin.com/in/christophweisser/)**  
-- **[Google Scholar](https://scholar.google.com/citations?user=YpwYTioAAAAJ&hl=de)**  
 - **[Medium](https://medium.com/@christoph.j.weisser28)**
+- **[LinkedIn](https://www.linkedin.com/in/christophweisser/)**  
 
 ---
 
