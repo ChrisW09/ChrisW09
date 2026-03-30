@@ -1,53 +1,54 @@
 # 👋 Hi, I'm Christoph
 
-🚀 **Professor of Mathematics, in particular Business Data Science, HSBI**
+🚀 **Professor of Mathematics, in particular Business Data Science**  
+HSBI – Hochschule Bielefeld, University of Applied Sciences and Arts
 
-Applied AI & Business Data Science with a focus on **tabular deep learning, machine learning systems and industrial AI applications**.
+My work focuses on **Applied AI, Data Science, Statistics, and Tabular Deep Learning**, combining academic research with real-world AI applications.
+
+---
+
+## 🌍 Links
+
+🎓 **University profile**  
+https://www.hsbi.de/personenverzeichnis/christoph-weisser
+
+🧠 **Applied AI & Business Data Science Consulting**  
+https://www.profweisser-ai.de
+
+💼 **LinkedIn**  
+https://www.linkedin.com/in/christophweisser/
+
+📖 **Google Scholar**  
+https://scholar.google.com/citations?user=YpwYTioAAAAJ
+
+✍️ **Medium**  
+https://medium.com/@christoph.j.weisser28
 
 ---
 
 ## 🔬 Research Interests
 
 - Applied Artificial Intelligence  
-- Business Data Science  
-- Statistics & Machine Learning  
+- Data Science  
+- Statistics  
 - Tabular Deep Learning  
 - Explainable AI  
-- Industrial AI Applications  
-
----
-
-## 🎓 Education
-
-PhD – University of Göttingen  
-MSc – University of Oxford  
-MLitt – University of St Andrews
-
----
-
-## 🌐 Connect
-
-💼 [LinkedIn](https://www.linkedin.com/in/christophweisser/)  
+- Machine Learning Systems  
 
 ---
 
 ## 📚 Publications
 
-30+ Data & AI publications:
+Author of **30+ publications in Data Science, AI, and Statistics**.
 
-- Journals: e.g. *JRSS*, *JAS*, *IEEE TNNLS*, *J. Phys. Chem.*, *Computational Statistics*  
-- Conferences: e.g. *ACL*, *LREC-COLING*, *IEEE*
-
-📖 [Google Scholar](https://scholar.google.com/citations?user=YpwYTioAAAAJ&hl=de)  
-✍️ [Medium](https://medium.com/@christoph.j.weisser28)
+➡️ Full list available on **Google Scholar**.
 
 ---
 
-## 👨‍🏫 Teaching
+## 👨‍🏫 Teaching & Outreach
 
-- Teaching **Applied Mathematics, Statistics, Data Science & AI**
-- Supervising **Bachelor and Master theses**
-- Supervising **industrial PhD students**
-- Leading **international summer schools on Data Science & AI**
+- Teaching **Data Science, Statistics, and AI**
+- Supervising **Bachelor, Master, and industrial PhD projects**
+- Leading **international Data Science & AI summer schools**
 
-🎓 [Bridging AI and Society Summer Schools](https://bridgingaiandsociety.org)
+🎓 https://bridgingaiandsociety.org
