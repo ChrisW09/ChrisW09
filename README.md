@@ -25,7 +25,7 @@ Applied Artificial Intelligence · Data Science · Statistics · Tabular Deep Le
 
 ## 📚 Publications
 
-Author of **30+ publications in Data Science, AI, and Statistics**.  
+**30+ publications in Data Science, AI, and Statistics**.  
 See the full list on **[Google Scholar](https://scholar.google.com/citations?user=YpwYTioAAAAJ&hl=de)**.
 
 ---
