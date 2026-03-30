@@ -34,4 +34,4 @@ See the full list on **[Google Scholar](https://scholar.google.com/citations?use
 
 Teaching **Data Science, Statistics, and AI**, supervising **Bachelor, Master, and industrial PhD projects**, and leading **international summer schools on Data Science & AI**.
 
-Learn more: **[Bridging AI and Society Summer Schools](https://bridgingaiandsociety.org)**
+**[Bridging AI and Society Summer Schools](https://bridgingaiandsociety.org)**
