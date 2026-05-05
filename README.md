@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Christoph
-
+**Prof. Dr. Christoph Weisser, MLitt (St Andrews), MSc (Oxford)**  
 🚀 **Professor of Mathematics, in particular Business Data Science**  
 HSBI – Hochschule Bielefeld, University of Applied Sciences and Arts
 
