@@ -1,9 +1,6 @@
 # 👋 Hi, I'm Christoph
-**Prof. Dr. Christoph Weisser, MLitt (St Andrews), MSc (Oxford)**  
-🚀 **Professor of Mathematics, in particular Business Data Science**  
-HSBI – Hochschule Bielefeld, University of Applied Sciences and Arts
-
----
+🚀 **Prof. Dr. Christoph Weisser, MLitt (St Andrews), MSc (Oxford)**  
+Professor of Mathematics, in particular Business Data Science · HSBI 
 
 ## 🌍 Profiles & Links
 
@@ -12,6 +9,12 @@ HSBI – Hochschule Bielefeld, University of Applied Sciences and Arts
 - **[Bridging AI and Society Summer Schools](https://bridgingaiandsociety.org)**  
 - **[Medium](https://medium.com/@christoph.j.weisser28)**
 - **[LinkedIn](https://www.linkedin.com/in/christophweisser/)**  
+
+
+---
+## 🎓 Education
+---
+
 
 ---
 
@@ -26,5 +29,4 @@ Applied Artificial Intelligence · Data Science · Statistics · Tabular Deep Le
 See the full list on **[Google Scholar](https://scholar.google.com/citations?user=YpwYTioAAAAJ&hl=de)**.
 
 ---
-
 
