@@ -20,7 +20,7 @@ Professor of Mathematics, in particular Business Data Science · HSBI
 
 ## 🔬 Research Interests
 
-Applied Artificial Intelligence · Data Science · Statistics · Tabular Deep Learning · Explainable AI 
+Applied Artificial Intelligence · Data Science · Statistics · Tabular Deep Learning 
 
 ---
 
