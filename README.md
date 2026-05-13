@@ -10,12 +10,6 @@ Professor of Mathematics, in particular Business Data Science · HSBI
 - **[Medium](https://medium.com/@christoph.j.weisser28)**
 - **[LinkedIn](https://www.linkedin.com/in/christophweisser/)**  
 
-
----
-## 🎓 Education
----
-
-
 ---
 
 ## 🔬 Research Interests
