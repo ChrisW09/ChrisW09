@@ -1,26 +1,44 @@
-# 👋 Hi, I'm Christoph
+# 👋 Hi, I'm Christoph Weisser
+
 🚀 **Prof. Dr. Christoph Weisser, MLitt (St Andrews), MSc (Oxford)**  
-Professor of Mathematics, in particular Business Data Science · HSBI 
+Professor of Mathematics (Business Data Science) · Hochschule Bielefeld (HSBI)  
+Former Technical Lead Analytics & Artificial Intelligence @ BASF
 
-## 🌍 Profiles & Links
+I work at the intersection of **Artificial Intelligence, Business Data Science, and open-source software**, translating cutting-edge research into production-ready AI systems. My research focuses on **Generative AI, agentic AI systems, tabular deep learning, machine learning, and statistics**, with a strong emphasis on bridging academic innovation and real-world industrial applications.
 
-- **[HSBI Profile](https://www.hsbi.de/personenverzeichnis/christoph-weisser)**  
-- **[Applied AI & Business Data Science Consulting](https://www.profweisser-ai.de)**
-- **[Bridging AI and Society Summer Schools](https://bridgingaiandsociety.org)**  
-- **[Medium](https://medium.com/@christoph.j.weisser28)**
-- **[LinkedIn](https://www.linkedin.com/in/christophweisser/)**  
+---
+
+## 🌍 Connect
+
+- 🌐 **[Prof. Weisser AI – Research, Open Source & Consulting](https://www.profweisser-ai.de)**
+- 🎓 **[HSBI Profile](https://www.hsbi.de/personenverzeichnis/christoph-weisser)**
+- 📚 **[Google Scholar](https://scholar.google.com/citations?user=YpwYTioAAAAJ&hl=de)**
+- 💼 **[LinkedIn](https://www.linkedin.com/in/christophweisser/)**
+- ✍️ **[Medium](https://medium.com/@christoph.j.weisser28)**
+- 🌍 **[Bridging AI and Society Summer Schools](https://bridgingaiandsociety.org)**
 
 ---
 
 ## 🔬 Research Interests
 
-Applied Artificial Intelligence · Data Science · Statistics · Tabular Deep Learning 
+- Artificial Intelligence
+- Generative AI
+- Agentic AI Systems
+- Business Data Science
+- Tabular Deep Learning
+- Machine Learning
+- Statistics
 
 ---
 
-## 📚 Publications
+## 🚀 Featured Open-Source Projects
 
-See the full list on **[Google Scholar](https://scholar.google.com/citations?user=YpwYTioAAAAJ&hl=de)**.
+Explore my pinned repositories below, including:
+
+- **DeepTab** – Modern tabular deep learning with Mamba, Transformers, ResNets, and a scikit-learn API.
+- **Python for AI-Driven Automation** – A practical introduction to building AI-powered automation with Python.
+- Additional research software and educational resources in Artificial Intelligence, Business Data Science, and machine learning.
 
 ---
 
+⭐ **Research • Open Source • Industry**
