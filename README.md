@@ -37,6 +37,7 @@ I work at the intersection of **Artificial Intelligence, Business Data Science, 
 
 - **[Python for AI-Driven Automation](https://github.com/ChrisW09/Python-for-AI-Driven-Automation)** – A practical, self-paced course taking you from your first line of Python to building AI-powered automation.
 - **[Quantitative Research Methods](https://github.com/ChrisW09/Quantitative-Research-Methods)** – University course materials covering statistics and machine learning, with lecture slides, hands-on labs, mock exams, and datasets, based on *An Introduction to Statistical Learning with Applications in Python*.
+- **[Bridging AI & Society Summer Schools](https://github.com/BridgingAISocietySummerSchools)** – Educational resources connecting the technical foundations of AI with its ethical, legal, and societal dimensions.
 
 ### 🧠 Tabular Deep Learning
 
