@@ -33,15 +33,15 @@ I work at the intersection of **Artificial Intelligence, Business Data Science, 
 
 ## 🚀 Featured Open-Source Projects
 
+### 🎓 Data Science and Applied AI Education
+
+- **[Python for AI-Driven Automation](https://github.com/ChrisW09/Python-for-AI-Driven-Automation)** – A practical, self-paced course taking you from your first line of Python to building AI-powered automation.
+- **[Quantitative Research Methods](https://github.com/ChrisW09/Quantitative-Research-Methods)** – University course materials covering statistics and machine learning, with lecture slides, hands-on labs, mock exams, and datasets, based on *An Introduction to Statistical Learning with Applications in Python*.
+
 ### 🧠 Tabular Deep Learning
 
 - **[DeepTab](https://github.com/OpenTabular/DeepTab)** – Modern tabular deep learning with Mamba, Transformers, ResNets, and a scikit-learn API.
 - **[PreTab](https://github.com/OpenTabular/PreTab)** – Modular, scikit-learn-compatible feature representation and preprocessing for tabular data.
-
-### 🎓 Data Science Education
-
-- **[Python for AI-Driven Automation](https://github.com/ChrisW09/Python-for-AI-Driven-Automation)** – A practical, self-paced course taking you from your first line of Python to building AI-powered automation.
-- **[Quantitative Research Methods](https://github.com/ChrisW09/Quantitative-Research-Methods)** – University course materials covering statistics and machine learning, with lecture slides, hands-on labs, mock exams, and datasets, based on *An Introduction to Statistical Learning with Applications in Python*.
 
 ### ⚙️ Composite AI System Optimization
 
