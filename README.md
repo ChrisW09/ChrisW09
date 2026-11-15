@@ -14,6 +14,7 @@ I work at the intersection of **Artificial Intelligence, Business Data Science, 
 - 🎓 **[HSBI Profile](https://www.hsbi.de/personenverzeichnis/christoph-weisser)**
 - 📚 **[Google Scholar](https://scholar.google.com/citations?user=YpwYTioAAAAJ&hl=de)**
 - 💼 **[LinkedIn](https://www.linkedin.com/in/christophweisser/)**
+- 📸 **[Instagram](https://www.instagram.com/christoph.j.weisser/)**
 - ✍️ **[Medium](https://medium.com/@christoph.j.weisser28)**
 - 🌍 **[Bridging AI and Society Summer Schools](https://bridgingaiandsociety.org)**
 
